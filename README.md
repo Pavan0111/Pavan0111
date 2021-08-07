@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavan0111
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning django.
+- 🌱 I’m currently working on projects by using Django.
 - 💞️ I’m looking to collaborate on professional projects.
 
 <!---
